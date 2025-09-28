@@ -8,7 +8,7 @@
                     <p>Solusi terpercaya untuk semua kebutuhan renovasi rumah di Jabodetabek dengan survei gratis dan estimasi transparan. Melayani dengan profesional sejak 2009.</p>
                     <div class="social-icons">
                         <a href="https://wa.me/6281318410406" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp KINA Renovasi"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
-                        <a href="" aria-label="TikTok KINA Renovasi"><i class="fab fa-tiktok" aria-hidden="true"></i></a>
+                        <a href="https://www.tiktok.com/@jonianto01?_t=ZS-904wfX90XBt&_r=1 " aria-label="TikTok KINA Renovasi"><i class="fab fa-tiktok" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 
